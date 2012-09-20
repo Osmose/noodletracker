@@ -1,0 +1,12 @@
+{
+  "version": "0.1",
+  "name": "NoodleTracker",
+  "description": "Noodle pivots to music",
+  "launch_path": "/",
+  "developer": {
+    "name": "Michael Kelly",
+    "url": "http://mkelly.me"
+  },
+  "installs_allowed_from": ["*"],
+  "default_locale": "en"
+}
